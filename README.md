@@ -5,25 +5,15 @@ An engineering student specializing in multi-class classification, ensemble fram
 
 ---
 
-## 📈 Technical Analytics
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=suyaibalsifat&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyaibalsifat&layout=compact&theme=tokyonight&langs_count=6" alt="Top Languages" height="180" />
-</p>
-
----
-
 ## 🛠️ Tech Stack & Ecosystem
 
-### 💻 Languages & Backend Core
-`JavaScript` • `Node.js` • `Express.js` • `C++` • `SQL` • `Python` (Data Science Engine)
+| Category | Tools & Technologies |
+|--- |--- |
+| **Languages & Backend** | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59?style=flat-square&logo=express) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white) |
+| **Data & ML Engine** | ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) |
+| **Design & UI** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Google UX Certified](https://img.shields.io/badge/Google-UX_Certified-4285F4?style=flat-square&logo=google&logoColor=white) |
+
 > *Note: Strict syntax enthusiast. Give me explicit curly braces and semicolons over whitespace formatting any day.*
-
-### 📊 Data Science & Machine Learning
-`Scikit-Learn` • `Pandas` • `NumPy` • `Model Interpretability (SHAP)` • `Pipeline Calibration`
-
-### 🎨 Design & Experience
-`Google UX Certified` • `Figma` • `Heuristic Evaluation` • `Prototyping`
 
 ---
 
@@ -35,15 +25,8 @@ An engineering student specializing in multi-class classification, ensemble fram
 ---
 
 ## 📬 Let's Connect
-* 💼 **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com/in/suyaibalsifat)
-* 🎓 **Academic / University:** Southeast University, Dhaka, Bangladesh
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=suyaibalsifat&color=deepskyblue&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
-</p>
-
-
-
+* 💼 **LinkedIn:** [linkedin.com/in/suyaibalsifat](https://linkedin.com/in/suyaibalsifat)
+* 🎓 **Academic:** Southeast University, Dhaka, Bangladesh
 
 
 <!--
