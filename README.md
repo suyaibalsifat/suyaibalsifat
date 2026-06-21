@@ -17,11 +17,8 @@ A researcher and full-stack developer focusing on Machine Learning dataset archi
 
 ---
 
-## 🔬 Research & Publications (Under Review)
-* **Psychiatric Disorder Classification (1st Author | Q1 Journal):** Developed a modular ensemble approach using SHAP and permutation importance to improve multi-class diagnostic accuracy.
-* **Physiological Stress Detection (1st Author | Q1 Journal):** Engineered an interpretable ML framework to distinguish physical exertion from acute stress markers in high-dimensional sensor data.
+## 🔬 Research & Publications
 * **Medical Diagnostics (1st Author | IEEE Conference):** Built a predictive model for UTI prediction focusing on feature importance for clinical decision support.
-
 ---
 
 ## 💻 Projects & Experience
