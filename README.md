@@ -15,7 +15,6 @@ A machine learning researcher and developer interested in rigorous model validat
 | **Tools & Platforms** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Claude](https://img.shields.io/badge/Claude-Developer_Platform-D97757?style=flat-square&logo=anthropic&logoColor=white) |
 | **Design & UI** | ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Google UX Certified](https://img.shields.io/badge/Google-UX_Certified-4285F4?style=flat-square&logo=google&logoColor=white) ![WordPress](https://img.shields.io/badge/wordpress-%2321759B.svg?style=flat-square&logo=wordpress&logoColor=white) |
 
-> *Note: Strict syntax enthusiast. Give me explicit curly braces and semicolons over whitespace formatting any day.*
 
 ---
 
